@@ -1,0 +1,15 @@
+{
+  "name": "logistic_regression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "yashovardhanagrawal",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^0.1.17",
+    "lodash": "^4.17.11",
+    "mnist-data": "^1.2.6",
+    "node-remote-plot": "^1.2.0"
+  }
+}
